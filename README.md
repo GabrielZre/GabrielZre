@@ -7,7 +7,7 @@ In this project i am using FireBase, beacuse its easy to add functionality like 
 Everything is done, except electronics for this time.
 - 💞️ I am looking for an internship as a Java / Android developer. I am open to learning new technologies and cloud solutions.
 
-- Skills: Java, C++, C, Python, XML, HTML, CSS, JavaScript, Docker, Kubernetes, Jenkins, Jfrog Artifactory, Jira, Git / Gerrit, Plastics SCM, Polarion
+- Skills: Java, C++, C, Python, XML, HTML, CSS, JavaScript, Bash, Docker, Kubernetes, Jenkins, Jfrog Artifactory, Jira, Git / Gerrit, Plastics SCM, Polarion, Windows, Linux
 - 📫 How to reach me: gabriel.zrebiec@gmail.com
 
 <!---
