@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielZre, informatic science student
 - 👀 I’m interested in programming, mostly in Java.
-- 👀 Working as a devops engineer
+- 👀 Working as a DevOps engineer
 - 🌱 I’m currently developing my scooter app which calculates the distance, time, average speed and getting info about current battery state via bluetooth module,
 extended by GPS tracker, to find the scooter. Users can save the trip details to database. Every saved trip is displaying in user history. 
 In this project i am using FireBase, beacuse its easy to add functionality like forgot password, etc. Electronic components will be connected by Adruino.
