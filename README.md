@@ -8,7 +8,7 @@ Overall look of project on this moment: https://imgur.com/a/A55s6An
 
 - 💞️ I am looking for an full time job as a Java / Android developer. I am open to learning new technologies and cloud solutions.
 
-- Programming Languages: Java, C++, C, Python, XML, HTML, CSS, JavaScript, Bash, SQL, noSQL
+- Programming Languages: Java, C++, C, Python, XML, HTML, CSS, JavaScript, Bash, SQL, noSQL, Kotlin - in progress
 - Skills:  Docker, Kubernetes, Jenkins, Jfrog Artifactory, Jira, Git / Gerrit, Plastics SCM, Polarion, Windows, Linux
 - 📫 How to reach me: gabriel.zrebiec@gmail.com
 
