@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielZre, informatic science student
+- 👋 Hi, I’m @GabrielZre, third year - informatic science student
 - 👀 I’m interested in programming, mostly in Java.
 - 👀 Working as a DevOps engineer
 - 🌱 I’m currently developing my scooter app which calculates the distance, time, average speed and getting info about current battery state via bluetooth module,
