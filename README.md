@@ -8,6 +8,7 @@ Project repository: [ProfiScooter_V1](https://github.com/GabrielZre/ProfiScooter
 Overall look of project on this moment: https://imgur.com/a/A55s6An
 
 - 💞️ I am looking for an full time job as a Java / Android developer. I am open to learning new technologies and cloud solutions.
+I am also open to other job offers 🙂	
 
 - Programming Languages: Java, C++, C, Python, XML, HTML, CSS, JavaScript, Bash, SQL, noSQL, Kotlin - in progress
 - Skills:  Docker, Kubernetes, Jenkins, Jfrog Artifactory, Jira, Git / Gerrit, Plastics SCM, Polarion, Windows, Linux
