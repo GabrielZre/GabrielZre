@@ -10,7 +10,7 @@ Electronic components: ESP32 Lolin32, SIM800L, GPS NEO-6M.
 Project repository: [ProfiScooter_V1](https://github.com/GabrielZre/ProfiScooter_V1)
 Overall look of project on this moment: https://imgur.com/a/A55s6An
 
-- 💞️ I am looking for an full time job as a Java / Android developer. I am open to learning new technologies and cloud solutions.
+- 💞️ I am looking for an full time job as a Java / Android developer. I am open to learning new technologies and cloud solutions. | UPDATE: SUCCESS
 
   I am also open to other job offers 🙂	
 
