@@ -9,13 +9,13 @@ In this project i am using FireBase, beacuse its easy to add functionality like 
 I have created 3 samples of this app:
 1. [https://imgur.com/a/A55s6An]
 2. [https://github.com/GabrielZre/ProfiScooter_V1]
-Preview: https://imgur.com/a/TkjkAIG
-Java, XML, Bluetooth Classic, Activity per Screen
-Electronic components: ESP32 Lolin32, SIM800L, GPS NEO-6M.
+- Preview: https://imgur.com/a/TkjkAIG
+- Java, XML, Bluetooth Classic, Activity per Screen
+- Electronic components: ESP32 Lolin32, SIM800L, GPS NEO-6M.
 4. [https://github.com/GabrielZre/ProfiScooterEX]
-Preview: https://docs.google.com/presentation/d/180PfqgU7t8DS_TPqp1aF_xkUoQvVGw7S/edit?usp=sharing&ouid=108568950519064346668&rtpof=true&sd=true
-Kotlin, Jetpack Compose, MVVM, BLE, Single Activity
-Electronic components: LILYGO TSIM 7608E-H, SIM800L, GPS NEO-6M.
+- Preview: https://docs.google.com/presentation/d/180PfqgU7t8DS_TPqp1aF_xkUoQvVGw7S/edit?usp=sharing&ouid=108568950519064346668&rtpof=true&sd=true
+- Kotlin, Jetpack Compose, MVVM, BLE, Single Activity
+- Electronic components: LILYGO TSIM 7608E-H, SIM800L, GPS NEO-6M.
 
 Each of these projects is deprecated and does not reflect current skills, but they show the progress of my learning and learning new technologies. Many things could have been done easier in those projects, I admit that the SOLID, KISS, and DRY principles were missing, and design patterns also.
 
