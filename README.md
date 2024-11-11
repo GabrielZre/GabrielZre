@@ -12,7 +12,7 @@ I have created 3 samples of this app:
 - Preview: https://imgur.com/a/TkjkAIG
 - Java, XML, Bluetooth Classic, Activity per Screen
 - Electronic components: ESP32 Lolin32, SIM800L, GPS NEO-6M.
-4. [https://github.com/GabrielZre/ProfiScooterEX]
+3. [https://github.com/GabrielZre/ProfiScooterEX]
 - Preview: https://docs.google.com/presentation/d/180PfqgU7t8DS_TPqp1aF_xkUoQvVGw7S/edit?usp=sharing&ouid=108568950519064346668&rtpof=true&sd=true
 - Kotlin, Jetpack Compose, MVVM, BLE, Single Activity
 - Electronic components: LILYGO TSIM 7608E-H, SIM800L, GPS NEO-6M.
